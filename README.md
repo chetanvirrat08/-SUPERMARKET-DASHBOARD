@@ -1,6 +1,6 @@
-🛒 Supermarket Sales Dashboard
+# 🛒 Supermarket Sales Dashboard
 
-📊 Power BI Summary — Visual Analytics Overview
+### 📊 Power BI Summary — Visual Analytics Overview
 
 Welcome to the Super Market Sales Dashboard!
 This README provides a quick, friendly overview of all metrics shown in the dashboard—including Gross Income, Unit Price, Totals, Branch performance, and Gross Margin.
@@ -26,7 +26,7 @@ This README provides a quick, friendly overview of all metrics shown in the dash
 
 📊 Total sales amount from all branches and product lines.
 
-🛍️ 2. Product Line Performance
+### 🛍️ 2. Product Line Performance
 📈 Gross Income by Product Line
 
 (From the line chart)
@@ -47,7 +47,7 @@ Sports and travel	~2600
 
 📝 Values interpreted from visual chart points.
 
-🧾 3. Unit Price by Branch
+### 🧾 3. Unit Price by Branch
 🏬 Branch Performance (Bar Chart)
 Branch	Unit Price
 
@@ -56,10 +56,10 @@ A	18,625.49
 B	18,478.88
 
 C	18,567.76
-
+ 
 📌 Differences among branches are small but noticeable.
 
-🌍 4. City Contribution (Donut Chart)
+### 🌍 4. City Contribution (Donut Chart)
 🏙️ Total Sales Distribution
 City	Percentage
 
@@ -71,7 +71,7 @@ Yangon	33%
 
 🌐 Balanced contribution across all cities.
 
-📉 5. Gross Margin Percentage by Product Line
+### 📉 5. Gross Margin Percentage by Product Line
 
 (From bar chart)
 
@@ -91,7 +91,7 @@ Sports and travel	~800
 
 💡 Values based on chart bar heights.
 
-🗂️ 6. Filters Available in Dashboard
+### 🗂️ 6. Filters Available in Dashboard
 🔄 Product Line Filter:
 
 Electronic accessories
@@ -120,7 +120,7 @@ Year 2019
 
 Month selector (Jan–Oct)
 
-🎯 7. Purpose of Dashboard
+### 🎯 7. Purpose of Dashboard
 
 This dashboard helps the supermarket analyze:
 
